@@ -53,6 +53,7 @@ This folder contains the main code, organized by responsibility:
 
 ---
 **Tip:** Each file contains TODO comments to help you know what to implement. Follow them step by step!
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 # done by begad tamim
@@ -67,3 +68,6 @@ This folder contains the main code, organized by responsibility:
 >>>>>>> 27a1e92b0dc5215a51467325bd0690dd369d1bb6
 
 # hi
+=======
+# hello 
+>>>>>>> a52abb99eb8f1956138e5a1b037e0a8b05069ef2
