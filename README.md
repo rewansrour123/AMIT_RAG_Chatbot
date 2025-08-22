@@ -70,6 +70,4 @@ This folder contains the main code, organized by responsibility:
 # hi
 =======
 # hello 
->>>>>>> a52abb99eb8f1956138e5a1b037e0a8b05069ef2
-
-*hiiiiiiiii
+>>>>>>> a52abb99eb8f1956138e5a1b037e0a8b050
