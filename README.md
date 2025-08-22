@@ -54,4 +54,8 @@ This folder contains the main code, organized by responsibility:
 ---
 **Tip:** Each file contains TODO comments to help you know what to implement. Follow them step by step!
 
+<<<<<<< HEAD
 # mariam
+=======
+# hi there
+>>>>>>> 20ef9e991bc54a0cdd650e32885b1575c7936d22
