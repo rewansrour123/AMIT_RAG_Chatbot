@@ -57,8 +57,11 @@ This folder contains the main code, organized by responsibility:
 <<<<<<< HEAD
 # done by begad tamim
 # welcome MIMI
+<<<<<<< HEAD
 =======
 
 # good job
 
 # hello there
+=======
+>>>>>>> 27a1e92b0dc5215a51467325bd0690dd369d1bb6
