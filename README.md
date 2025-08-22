@@ -53,3 +53,10 @@ This folder contains the main code, organized by responsibility:
 
 ---
 **Tip:** Each file contains TODO comments to help you know what to implement. Follow them step by step!
+
+<<<<<<< HEAD
+# done by begad tamim
+# welcome MIMI
+=======
+
+>>>>>>> 02f25c892816383a6d54a5c24f851a03b1ba7374
