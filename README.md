@@ -52,4 +52,28 @@ This folder contains the main code, organized by responsibility:
 5. Use the API endpoints to chat with your RAG chatbot!
 
 ---
+<<<<<<< HEAD
 **Tip:** Each file contains TODO comments to help you know what to implement. Follow them step by step!
+=======
+**Tip:** Each file contains TODO comments to help you know what to implement. Follow them step by step!
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+# done by begad tamim
+# welcome MIMI
+<<<<<<< HEAD
+=======
+
+# good job
+
+# hello there
+=======
+>>>>>>> 27a1e92b0dc5215a51467325bd0690dd369d1bb6
+
+# hi
+=======
+# hello 
+>>>>>>> a52abb99eb8f1956138e5a1b037e0a8b050
+
+hh
+>>>>>>> f3744f0c034c93d576ac374d31a6a96a0b838fae
